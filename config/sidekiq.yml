@@ -1,6 +1,6 @@
 :schedule:
   PriceWorker:
-    every: "5s"
+    every: "0.30s"
     # cron: '0 * * * * *'
     # queue: scheduler
     enabled: true
